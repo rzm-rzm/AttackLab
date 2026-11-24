@@ -11,3 +11,6 @@ attack/dark-calc-nx binary
 attack/dark-log binary
 src/aslr binary
 attack/malware text eol=lf
+
+*.pdf binary
+*.docx binary
